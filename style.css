@@ -51,4 +51,12 @@ body {
 
 }
 
+.layanan .row .left-column {
+  float: left;
+  width: 50%;
+}
 
+.layanan .row  .right-column {
+  float: right;
+  width: 50%;
+}
